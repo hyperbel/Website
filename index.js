@@ -2,7 +2,7 @@ function AlertTest(content) {
     alert(content);
 }
 
-var counter = 0;
+var counter;
 
 
 function IncreaseCounter(count) {
