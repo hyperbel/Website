@@ -5,5 +5,5 @@ function AlertTest(content) {
 
 function IncreaseCounter(count) {
     counter = counter + count;
-    document.getElementById("CounterDisplay").innerHTML = count;
+    document.getElementById("CounterDisplay").innerHTML = counter;
 }
